@@ -4,16 +4,8 @@
     box-sizing: border-box;
     background-color: rgb(0, 60, 116);
 }
-/**body{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    background-color: rgb(0, 0, 0);
-}**/
 .title-page{
     text-align: center;
-    /**position: absolute;**/
     color: aliceblue
 }
 .title-box{
@@ -52,10 +44,3 @@
     border-top-right-radius: 2px;
     border-bottom-right-radius: 2px;
 }
-/**.battery-level{
-    width: 10%;
-    height: 100%;
-    animation: battery-level 3s forwards;
-    animation-direction: reverse;
-    background-color: chartreuse;
-}**/
