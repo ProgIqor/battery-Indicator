@@ -73,6 +73,14 @@ footer {
     height: 300px;
     padding-left: 12%;
   }
+.carton2{
+    background-color: #232f3a;
+    border-radius: 15px;
+    border-style: groove;
+    width: 350px;
+    height: 300px;
+    padding-left: 12%;
+  }
   .config-bat{
     background-color: #232f3a;
     color: aliceblue;
