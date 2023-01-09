@@ -17,11 +17,11 @@
 }
 .battery-test1{
     height: 100%;
-    background-color: chartreuse;
+    background-color: chartreuse; 
 }
 .battery-test2{
-    height: 100%;
-    background-color: chartreuse;
+  height: 100%;
+  background-color: chartreuse;
 }
 .body-battery{
     position: fixed;
@@ -73,7 +73,7 @@ footer {
     height: 300px;
     padding-left: 12%;
   }
-.carton2{
+  .carton2{
     background-color: #232f3a;
     border-radius: 15px;
     border-style: groove;
